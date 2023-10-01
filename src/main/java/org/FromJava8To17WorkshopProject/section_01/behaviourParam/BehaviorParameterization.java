@@ -1,4 +1,4 @@
-package org.FromJava8To17WorkshopProject.section_01.behaviourparam;
+package org.FromJava8To17WorkshopProject.section_01.behaviourParam;
 
 import java.util.ArrayList;
 import java.util.Arrays;
